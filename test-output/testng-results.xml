@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="7890" started-at="2021-06-02T14:49:48 IST" finished-at="2021-06-02T14:49:56 IST">
+    <groups>
+    </groups>
+    <test name="Problem_Statement" duration-ms="7890" started-at="2021-06-02T14:49:48 IST" finished-at="2021-06-02T14:49:56 IST">
+      <class name="com.bridgelabz.selenium.Extent_Report">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.bridgelabz.selenium.Extent_Report@6093dd95]" name="startTest" is-config="true" duration-ms="255" started-at="2021-06-02T14:49:48 IST" finished-at="2021-06-02T14:49:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="extentReportsDemo()[pri:0, instance:com.bridgelabz.selenium.Extent_Report@6093dd95]" name="extentReportsDemo" duration-ms="7053" started-at="2021-06-02T14:49:48 IST" finished-at="2021-06-02T14:49:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportsDemo -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.bridgelabz.selenium.Extent_Report@6093dd95]" name="endTest" is-config="true" duration-ms="539" started-at="2021-06-02T14:49:55 IST" finished-at="2021-06-02T14:49:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.bridgelabz.selenium.Extent_Report -->
+    </test> <!-- Problem_Statement -->
+  </suite> <!-- Default Suite -->
+</testng-results>
